@@ -1,4 +1,4 @@
 # Simple React Pagination
 
-> Frontend pagination using React and Hooks
+> Frontend pagination without network traffic using React and Hooks
 

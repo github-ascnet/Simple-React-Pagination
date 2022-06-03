@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Jura:wght@700&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Jura", cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
